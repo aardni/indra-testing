@@ -1,3 +1,4 @@
 THIS IS IT
 - paham git
 - belajar front end flutter
+- olahraga setiap hari
