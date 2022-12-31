@@ -2,5 +2,6 @@ THIS IS IT
 - paham git
 - belajar front end flutter
   1. pake yt 'code with bahri'
-  2. yt "flutter ui"
+  2. yt "flutter ui
+  3. pake website aja main
 - olahraga setiap hari
