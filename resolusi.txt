@@ -1,5 +1,1 @@
-THIS IS IT
-- paham git
-- belajar front end flutter
-  1. pake website ajah
-- olahraga setiap hari
+hai, kali ini aku mau coba pake github, dari tutorial web programming unpas
